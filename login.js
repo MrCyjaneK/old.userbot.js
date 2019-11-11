@@ -17,5 +17,7 @@ const login   = require("facebook-chat-api");
     if(err) return console.error(err);
 
     fs.writeFileSync('appstate.json', JSON.stringify(api.getAppState()));
+    console.log("Saved data to appstate.json");
+    console.log("To run use 'node index.js'");
 });
 })();
