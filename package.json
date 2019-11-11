@@ -1,0 +1,24 @@
+{
+  "name": "userbotjs",
+  "version": "1.0.0",
+  "description": "Facebook's messenger userbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"OK!\";"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCyjaneK/userbot.js.git"
+  },
+  "author": "Czarek Nakamoto (Cyjan)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/MrCyjaneK/userbot.js/issues"
+  },
+  "homepage": "https://github.com/MrCyjaneK/userbot.js#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.1",
+    "fs": "0.0.1-security",
+    "prompts": "^2.3.0"
+  }
+}
