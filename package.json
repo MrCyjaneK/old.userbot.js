@@ -19,6 +19,7 @@
   "dependencies": {
     "facebook-chat-api": "^1.6.1",
     "fs": "0.0.1-security",
-    "prompts": "^2.3.0"
+    "prompts": "^2.3.0",
+    "speedtest-net": "^1.6.0"
   }
 }
