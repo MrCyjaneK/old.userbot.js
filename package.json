@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MrCyjaneK/userbot.js#readme",
   "dependencies": {
+    "emojis-list": "^3.0.0",
     "facebook-chat-api": "^1.6.1",
     "fs": "0.0.1-security",
     "prompts": "^2.3.0",
