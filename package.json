@@ -20,7 +20,7 @@
     "emojis-list": "^3.0.0",
     "exec-sh": "^0.3.4",
     "facebook-chat-api": "^1.6.1",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "prompts": "^2.3.0",
     "speedtest-net": "^1.6.0"
   }
